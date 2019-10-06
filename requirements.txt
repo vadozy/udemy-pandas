@@ -1,4 +1,5 @@
 pandas
+pandas-datareader
 matplotlib
 jupyter
 scipy
